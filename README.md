@@ -19,3 +19,6 @@ Next step: use it for a React-like rendering library!
 ```
 npm, yarn
 ```
+### Thanks
+
+Thanks to @deathmood for his fantastic tutorial. 
